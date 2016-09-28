@@ -1,11 +1,19 @@
 ﻿<html>
     <head>
+<<<<<<< HEAD
+        <title>Second Branch</title>
+    </head>
+    <body>
+	<h1>Second Branch</h1>
+	<pre>
+=======
         <title>New file</title>
     </head>
     <body>
 	<h1>Test GIT file</h1>
 	<pre>
 	
+>>>>>>> origin/new_branch
         <a href="a1" style="color: red"><big>Ссылка на первый якорь</big></a>
         <a href="a2" style="color: green"><sup>Ссылка на второй якорь</sup></a>
         <a href="a3" style="color: blue"><sub>Ссылка на третий якорь</sub></a>

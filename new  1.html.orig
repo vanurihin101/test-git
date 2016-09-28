@@ -1,6 +1,10 @@
 ﻿<html>
     <head>
+<<<<<<< HEAD
+        <title>Second Branch</title>
+=======
         <title>New file</title>
+>>>>>>> origin/new_branch
     </head>
     <body>
 	<h1>Test GIT file</h1>
