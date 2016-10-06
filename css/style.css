@@ -1,1 +1,4 @@
-h1 {color:red}
+h1 {color:red;
+font: normal 36px Times, serif;
+text-align: center;}
+p {font: 12px/1.4 Arial, sans-serif;}
