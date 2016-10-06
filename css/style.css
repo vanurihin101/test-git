@@ -1,7 +1,11 @@
 
-h1 {color:red;
+h1 {color:white;
 font: normal 36px Times, serif;
-text-align: center;}
+text-align: center;
+border: 1px groove white;
+}
+
 p {font: 12px/1.4 Arial, sans-serif;
 margin-left: 30mm;}
+
 body.bg {background-image: url("img/fon.png"); background-color:darkolivegreen;}
